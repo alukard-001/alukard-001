@@ -1,4 +1,13 @@
-* { margin:0; padding:0; box-sizing:border-box; }
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Profile Banner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
   body {
     background:radial-gradient(circle at 50% 30%, #14161c 0%, #090a0d 70%);
     display:flex;
@@ -234,7 +243,6 @@
   <div class="scene-black"></div>
 
   <div class="scene-code">
-
     <div class="titlebar">
       <div class="traffic">
         <span class="dot red"></span>
@@ -243,7 +251,6 @@
       </div>
       <div class="fname">portfolio — profile.js</div>
     </div>
-
     <div class="body-row">
       <div class="sidebar">
         <svg class="ico active" viewBox="0 0 24 24" fill="none" stroke="#e8e8ea" stroke-width="1.6"><path d="M4 4h8l2 3h6v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z"/></svg>
@@ -251,7 +258,6 @@
         <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#c9c9cd" stroke-width="1.6"><circle cx="6" cy="6" r="2.2"/><circle cx="6" cy="18" r="2.2"/><circle cx="18" cy="12" r="2.2"/><path d="M6 8.2V15.8M8 6.8h4a4 4 0 0 1 4 4v0"/></svg>
         <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="#c9c9cd" stroke-width="1.6"><rect x="3" y="3" width="8" height="8" rx="1"/><rect x="13" y="3" width="8" height="8" rx="1"/><rect x="3" y="13" width="8" height="8" rx="1"/><rect x="13" y="13" width="8" height="8" rx="1"/></svg>
       </div>
-
       <div class="editor-area">
         <div class="tabs">
           <div class="tab active">
@@ -259,7 +265,6 @@
             profile.js
           </div>
         </div>
-
         <div class="code">
           <div class="gutter">1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12</div>
           <div class="lines">
@@ -283,7 +288,6 @@
         </div>
       </div>
     </div>
-
     <div class="statusbar">
       <div class="grp">
         <span>
