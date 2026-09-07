@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://placehold.co/1280x430/080b12/ffffff?text=TEST+BANNER"
-     width="100%">
+  <iframe
+    src="./banner_v2.html"
+    width="100%"
+    height="430"
+    style="border:0;"
+    frameborder="0">
+  </iframe>
 
 </div>
