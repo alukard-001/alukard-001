@@ -21,21 +21,12 @@ contact with real users and real traffic.
 📫 **Reach me:** alukardttn@icloud.com
 
 ---
-
 ### 🏅 Certifications
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Developer Associate](https://img.shields.io/badge/Azure-AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud Professional Developer](https://img.shields.io/badge/GCP-Professional%20Cloud%20Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Oracle Certified Java SE](https://img.shields.io/badge/Oracle-Java%20SE%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft C#/.NET](https://img.shields.io/badge/Microsoft-C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python Institute PCAP](https://img.shields.io/badge/PCAP-Python%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front--End%20Developer-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Full%20Stack-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA-Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker Certified Associate](https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS DevOps Engineer](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Pro-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Associate Android Developer](https://img.shields.io/badge/Google-Associate%20Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white)
-![CSSLP](https://img.shields.io/badge/ISC²-CSSLP-003087?style=for-the-badge&logo=isc2&logoColor=white)
+| | | |
+|---|---|---|
+| ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-AZ--204-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-Cloud%20Developer-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| ![Oracle](https://img.shields.io/badge/Oracle-Java%20SE-F80000?style=flat-square&logo=oracle&logoColor=white) | ![.NET](https://img.shields.io/badge/Microsoft-C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![PCAP](https://img.shields.io/badge/PCAP-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![Meta](https://img.shields.io/badge/Meta-Front--End%20Dev-0668E1?style=flat-square&logo=meta&logoColor=white) | ![fCC](https://img.shields.io/badge/freeCodeCamp-Full%20Stack-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) | ![CKA](https://img.shields.io/badge/CKA-Kubernetes%20Admin-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![AWS DevOps](https://img.shields.io/badge/AWS-DevOps%20Pro-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| ![Android](https://img.shields.io/badge/Google-Android%20Developer-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white) | ![CSSLP](https://img.shields.io/badge/ISC²-CSSLP-003087?style=flat-square&logo=isc2&logoColor=white) |
